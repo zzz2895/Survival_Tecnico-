@@ -1,0 +1,26 @@
+{
+  "placements": [
+    {
+      "id": "effea1d4-3cfb-4e4f-9634-48b64b52e5c4",
+      "file_name": "C:\\Users\\S4S0R1\\AppData\\Roaming\\.minecraft\\schematics\\Polvo de huesos.litematic",
+      "display_name": "Polvo de huesos",
+      "hash": "b69bf468-11f2-3699-ac74-02c09a438de1",
+      "origin": {
+        "position": [
+          -161,
+          69,
+          77
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "e7f6c9a9-1f39-346f-baf0-6fcf7b344483",
+        "name": "S4R1_ETHN"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    }
+  ]
+}
