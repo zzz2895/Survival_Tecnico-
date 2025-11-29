@@ -1,0 +1,184 @@
+[22:15:45] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[22:15:46] [main/INFO]: Loading 44 mods:
+	- carpet 1.4.147+v240613
+	- fabric-api 0.114.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.2+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.9.2+e60e56d419
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.0+da19b51a19
+	   |-- fabric-data-generation-api-v1 20.2.25+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+	- syncmatica 0.3.14-sakura.5
+	   \-- fabric-permissions-api-v0 0.3.1
+[22:15:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survival_Tecnico-/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:15:47] [main/INFO]: Compatibility level set to JAVA_17
+[22:15:47] [main/INFO]: Compatibility level set to JAVA_21
+[22:15:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:15:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:15:58] [main/INFO]: Loaded 1290 recipes
+[22:15:59] [main/INFO]: Loaded 1399 advancements
+[22:15:59] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.121 ms
+[22:15:59] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:15:59] [Server thread/INFO]: Loading properties
+[22:15:59] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:59] [Server thread/INFO]: Generating keypair
+[22:15:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:15:59] [Server thread/INFO]: Using epoll channel type
+[22:15:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:15:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:15:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:15:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:15:59] [Server thread/INFO]: Preparing level "world1"
+[22:16:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:16:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:16:04] [Worker-Main-3/INFO]: Preparing spawn area: 14%
+[22:16:04] [Server thread/INFO]: Time elapsed: 586 ms
+[22:16:04] [Server thread/INFO]: Done (4.483s)! For help, type "help"
+[22:16:19] [Server thread/INFO]: Connection closed during protocol change
+[22:16:19] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:55031] logged in with entity id 13 at (11.48697924158114, 59.0, 631.8611696213388)
+[22:16:19] [Server thread/INFO]: Connection closed during protocol change
+[22:16:19] [Server thread/INFO]: S4R1_ETHN joined the game
+[22:16:19] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[22:16:19] [Server thread/INFO]: S4R1_ETHN left the game
+[22:16:54] [Server thread/INFO]: Tshadow[/127.31.144.229:37763] logged in with entity id 14 at (-2.5, 106.0, 3.5)
+[22:16:54] [Server thread/INFO]: Tshadow joined the game
+[22:16:55] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[22:17:00] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:40457] logged in with entity id 337 at (11.48697924158114, 59.0, 631.8611696213388)
+[22:17:00] [Server thread/INFO]: S4R1_ETHN joined the game
+[22:17:00] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[22:17:00] [Server thread/INFO]: Player S4R1_ETHN joined with a matching carpet client
+[22:17:03] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[22:17:03] [Server thread/INFO]: S4R1_ETHN left the game
+[22:17:25] [Server thread/INFO]: Tshadow lost connection: Timed out
+[22:17:25] [Server thread/INFO]: Tshadow left the game
+[22:17:25] [Server thread/WARN]: handleDisconnection() called twice
+[22:17:35] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:48577] logged in with entity id 846 at (12.497417875190857, 59.42527412219723, 634.014942055309)
+[22:17:35] [Server thread/INFO]: S4R1_ETHN joined the game
+[22:17:35] [Server thread/INFO]: Player S4R1_ETHN joined with a matching carpet client
+[22:17:35] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[22:17:37] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[22:17:37] [Server thread/INFO]: S4R1_ETHN left the game
+[22:17:40] [Server thread/INFO]: Tshadow[/127.31.144.229:43761] logged in with entity id 1397 at (-2.5, 106.0, 3.5)
+[22:17:40] [Server thread/INFO]: Tshadow joined the game
+[22:17:41] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[22:17:44] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:47147] logged in with entity id 1706 at (12.497417875190857, 59.0, 634.014942055309)
+[22:17:44] [Server thread/INFO]: S4R1_ETHN joined the game
+[22:17:44] [Server thread/INFO]: Player S4R1_ETHN joined with a matching carpet client
+[22:17:44] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[22:18:42] [Server thread/INFO]: Tshadow has made the advancement [Stone Age]
+[22:18:57] [Server thread/INFO]: Incorrect argument for command
+[22:18:57] [Server thread/INFO]: ...S4R1_ETHN Tshadow/tp S4R1_ETHN Tshadow<--[HERE]
+[22:19:10] [Server thread/INFO]: Tshadow lost connection: Timed out
+[22:19:10] [Server thread/INFO]: Tshadow left the game
+[22:19:10] [Server thread/INFO]: No entity was found
+[22:19:21] [Server thread/INFO]: Tshadow[/127.31.144.229:41677] logged in with entity id 2956 at (7.300000011920929, 96.0, -16.88342755954257)
+[22:19:21] [Server thread/INFO]: Tshadow joined the game
+[22:19:22] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[22:19:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=6, y=97, z=-5}
+[22:19:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=6, y=97, z=-5}
+[22:19:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=6, y=98, z=-4}
+[22:19:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=6, y=98, z=-4}
+[22:19:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=98, z=-5}
+[22:19:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=3, y=100, z=-4}
+[22:19:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=4, y=100, z=-3}
+[22:19:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=101, z=-1}
+[22:19:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:19:45] [Server thread/INFO]: /tp S4R1_ETHN Tshadow<--[HERE]
+[22:19:49] [Server thread/INFO]: Teleported S4R1_ETHN to Tshadow
+[22:19:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=103, z=1}
+[22:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=103, z=1}
+[22:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=103, z=1}
+[22:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=103, z=1}
+[22:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=103, z=1}
+[22:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=5, y=103, z=1}
+[22:20:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=6, y=106, z=9}
+[22:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=1, y=108, z=11}
+[22:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=0, y=109, z=13}
+[22:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=94, z=-20} class_2338{x=1, y=109, z=14}
+[22:21:55] [Server thread/INFO]: Tshadow has made the advancement [Suit Up]
+[22:22:48] [Server thread/INFO]: Tshadow has made the advancement [What a Deal!]
+[22:24:52] [Server thread/INFO]: Tshadow has made the advancement [Cover Me with Diamonds]
+[22:26:02] [Server thread/INFO]: Tshadow has made the advancement [Acquire Hardware]
+[22:30:26] [Server thread/INFO]: Tshadow has made the advancement [Sweet Dreams]
+[22:31:30] [Server thread/INFO]: Tshadow has made the advancement [Isn't It Iron Pick]
+[22:32:06] [Server thread/INFO]: Tshadow has made the advancement [Enchanter]
+[22:35:09] [Server thread/INFO]: Tshadow has made the advancement [We Need to Go Deeper]
+[22:35:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-176, y=70, z=92} class_2338{x=-27, y=63, z=17}
+[22:35:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-176, y=70, z=92} class_2338{x=-25, y=63, z=16}
+[22:35:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-176, y=70, z=92} class_2338{x=-19, y=71, z=18}
+[22:35:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-176, y=70, z=92} class_2338{x=-17, y=72, z=19}
+[22:36:13] [Server thread/INFO]: Tshadow has made the advancement [Monster Hunter]
+[22:45:50] [Server thread/INFO]: Tshadow has made the advancement [A Terrible Fortress]
+[22:47:11] [Server thread/INFO]: S4R1_ETHN has made the advancement [Into Fire]
+[22:49:15] [Server thread/INFO]: Tshadow has made the advancement [Into Fire]
+[22:49:24] [Server thread/INFO]: Tshadow was slain by Wither Skeleton
+[22:50:30] [Server thread/INFO]: Teleported Tshadow to S4R1_ETHN
+[22:59:04] [Server thread/INFO]: Tshadow lost connection: Disconnected
+[22:59:04] [Server thread/INFO]: Tshadow left the game
+[22:59:47] [Server thread/INFO]: Tshadow[/127.31.144.229:36623] logged in with entity id 15265 at (58.1809853436018, 62.0, 588.724735595986)
+[22:59:47] [Server thread/INFO]: Tshadow joined the game
+[22:59:48] [Server thread/INFO]: Syncmatica client joining with local version 0.3.14-sakura.5 and client version 0.3.14-sakura.5
+[23:00:45] [Server thread/INFO]: Tshadow was burned to a crisp while fighting S4R1_ETHN
+[23:02:09] [Server thread/INFO]: Teleported Tshadow to S4R1_ETHN
+[23:11:00] [Server thread/WARN]: Tshadow moved too quickly! 5.510418760410431,-0.37673561378173304,-8.465732587004013
+[23:19:53] [Server thread/INFO]: Tshadow lost connection: Disconnected
+[23:19:53] [Server thread/INFO]: Tshadow left the game
+[23:19:57] [Server thread/INFO]: S4R1_ETHN lost connection: Disconnected
+[23:19:57] [Server thread/INFO]: S4R1_ETHN left the game
+[23:20:02] [Server thread/INFO]: Stopping the server
+[23:20:02] [Server thread/INFO]: Stopping server
+[23:20:02] [Server thread/INFO]: Saving players
+[23:20:02] [Server thread/INFO]: Saving worlds
+[23:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1]'/minecraft:overworld
+[23:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1]'/minecraft:the_nether
+[23:20:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1]'/minecraft:the_end
+[23:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world1): All chunks are saved
+[23:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

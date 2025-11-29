@@ -1,0 +1,70 @@
+{
+  "placements": [
+    {
+      "id": "4f0d6ae8-03b5-452b-ba78-6c5ef207da3d",
+      "file_name": "C:\\Users\\S4S0R1\\AppData\\Roaming\\.minecraft\\schematics\\Polvo de huesos.litematic",
+      "display_name": "Polvo de huesos",
+      "hash": "b69bf468-11f2-3699-ac74-02c09a438de1",
+      "origin": {
+        "position": [
+          -161,
+          69,
+          62
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "e7f6c9a9-1f39-346f-baf0-6fcf7b344483",
+        "name": "S4R1_ETHN"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    },
+    {
+      "id": "29a3ff00-7e0e-4d50-9ca6-3550e81431b3",
+      "file_name": "C:\\Users\\S4S0R1\\AppData\\Roaming\\.minecraft\\schematics\\Polvo de huesos.litematic",
+      "display_name": "Polvo de huesos",
+      "hash": "b69bf468-11f2-3699-ac74-02c09a438de1",
+      "origin": {
+        "position": [
+          -170,
+          69,
+          109
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "e7f6c9a9-1f39-346f-baf0-6fcf7b344483",
+        "name": "S4R1_ETHN"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    },
+    {
+      "id": "aafcae91-28a3-464e-bd29-1ca1aa3fc998",
+      "file_name": "C:\\Users\\S4S0R1\\AppData\\Roaming\\.minecraft\\schematics\\Trading Hall.litematic",
+      "display_name": "Trading Hall",
+      "hash": "f3f5ed60-d048-37a7-8a49-2efb25b1431c",
+      "origin": {
+        "position": [
+          -215,
+          67,
+          171
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "e7f6c9a9-1f39-346f-baf0-6fcf7b344483",
+        "name": "S4R1_ETHN"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    }
+  ]
+}
